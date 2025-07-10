@@ -9,11 +9,11 @@ This backend is built with **Express.js**, uses **MongoDB** for the database, an
 ## 🚀 Features
 
 - ✅ User Signup & Login (JWT-based authentication)
-- ✅ Product APIs (CRUD-ready structure)
 - ✅ MongoDB (via Mongoose)
 - ✅ Environment-based configuration using `.env`
 - ✅ CORS enabled for frontend integration
 - ✅ Deployed on Vercel as serverless API
+- ✅ Product APIs (CRUD-ready structure)(Working)
 
 ---
 
@@ -48,7 +48,7 @@ This backend is built with **Express.js**, uses **MongoDB** for the database, an
 
 - MONGODB_URI=your_mongodb_uri
 - JWT_SECRET=your_jwt_secret
-- PORT=port
+
 
 
 ## 📦 Installation
