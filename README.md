@@ -53,6 +53,8 @@ This backend is built with **Express.js**, uses **MongoDB** for the database, an
 
 ## 📦 Installation
 - git clone https://github.com/your-username/shopnow-backend.git
-- cd shopnow-backend
-- npm install
+-      cd shopnow-backend
+-      npm install
+## Frontend Code
+-        https://github.com/Anshuy11/shopNow
 
